@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Nbmap",
-            url: "https://github.com/nextbillion-ai/nextbillion-map-ios/releases/download/2.1.6/Nbmap.xcframework.zip",
-            checksum: "fd487d81e8f7790ea1c9cd5c69920c14ad3cb41ef4a2fa060872f75c5bc99a25"
+            url: "https://github.com/nextbillion-ai/nextbillion-map-ios/releases/download/2.2.0/Nbmap.xcframework.zip",
+            checksum: "a4b27996e3bb686a1b35324b5c2f9d50e319735e22d0ceebbbbba0cf56a2da87"
         )
     ]
 )
